@@ -8,7 +8,7 @@ Just a silly little script to convert Blackrock ns5 or ns6 files to audio.
 
 As long as you have a Python environment with the required dependencies installed then it's just a matter of calling the `ns2audio.py` script with arguments.
 
-I use `uv` so I typically run it with `uv run ns2audio path/to/my.ns5
+I use `uv` so I typically run it with `uv run ns2audio path/to/my.ns5`
 
 ```
  Usage: ns2audio.py [OPTIONS] FILEPATH                                                                                                                                                           
